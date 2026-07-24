@@ -1,4 +1,4 @@
-# Netra ? VPN & Tor Exit IP Intelligence
+# Netra - VPN & Tor Exit IP Intelligence
 
 A dated, queryable dataset of identifiable VPN/Tor exit IPs and related threat infrastructure,
 for detection, log enrichment, and network policy use cases.
